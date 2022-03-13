@@ -1,0 +1,14 @@
+{
+    "name": "mandriao84",
+    "version": "1.0.0",
+    "description": "google search testing",
+    "main": "",
+    "scripts": {
+        "git": "git reset --hard origin/master && git fetch origin && git pull origin"
+    },
+    "author": "mandriao84",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^9.5.1"
+    }
+}
